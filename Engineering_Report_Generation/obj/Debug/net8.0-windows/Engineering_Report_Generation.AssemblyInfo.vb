@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Engineering_Report_Generation"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99844cc67267abc551d071be9b067eb956c897e4"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce30b8d3768b1d1cb43bcf55b8e4e8e36b48e2aa"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Engineering_Report_Generation"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Engineering_Report_Generation"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
