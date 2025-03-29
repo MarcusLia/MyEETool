@@ -565,9 +565,9 @@ Public Class Main
     End Sub
 
     Private Sub TextBox14_TextChanged(sender As Object, e As EventArgs) Handles TextBox14.TextChanged
-        Dim txtSize As Size = TextRenderer.MeasureText(TextBox14Text, TextBox1.Font)
+        Dim txtSize As Size = TextRenderer.MeasureText(TextBox14.Text, TextBox1.Font)
         TextBox14.Width = Math.Min(300, txtSize.Width + 10)
-        TextBox41.TextAlign = HorizontalAlignment.Center
+        TextBox14.TextAlign = HorizontalAlignment.Center
     End Sub
 
     ' Helper function to release Word objects
